@@ -1,11 +1,12 @@
 import React from 'react' 
 import './App.css'
+import Home from './page/Home'
 
 function App() { 
 
   return (
     <>
-       <h1>Mega Menu</h1>
+        <Home/>
     </>
   )
 }
