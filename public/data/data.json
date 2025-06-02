@@ -1,0 +1,198 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "children": [
+        {
+          "id": 11,
+          "name": "Computers",
+          "children": [
+            {
+              "id": 111,
+              "name": "Laptops"
+            },
+            {
+              "id": 112,
+              "name": "Desktops"
+            },
+            {
+              "id": 113,
+              "name": "Components"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Mobile Phones",
+          "children": [
+            {
+              "id": 121,
+              "name": "Smartphones"
+            },
+            {
+              "id": 122,
+              "name": "Feature Phones"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Home & Kitchen",
+      "children": [
+        {
+          "id": 21,
+          "name": "Furniture"
+        },
+        {
+          "id": 22,
+          "name": "Appliances",
+          "children": [
+            {
+              "id": 221,
+              "name": "Refrigerators"
+            },
+            {
+              "id": 222,
+              "name": "Microwaves"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Fashion",
+      "children": [
+        {
+          "id": 31,
+          "name": "Men",
+          "children": [
+            {
+              "id": 311,
+              "name": "Shirts"
+            },
+            {
+              "id": 312,
+              "name": "Pants"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "name": "Women",
+          "children": [
+            {
+              "id": 321,
+              "name": "Dresses"
+            },
+            {
+              "id": 322,
+              "name": "Skirts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Books"
+    },
+    {
+      "id": 5,
+      "name": "Toys & Games",
+      "children": [
+        {
+          "id": 51,
+          "name": "Puzzles"
+        },
+        {
+          "id": 52,
+          "name": "Board Games"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sports",
+      "children": [
+        {
+          "id": 61,
+          "name": "Outdoor"
+        },
+        {
+          "id": 62,
+          "name": "Indoor",
+          "children": [
+            {
+              "id": 621,
+              "name": "Table Tennis"
+            },
+            {
+              "id": 622,
+              "name": "Chess"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Beauty & Health",
+      "children": [
+        {
+          "id": 71,
+          "name": "Makeup"
+        },
+        {
+          "id": 72,
+          "name": "Skincare"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Automotive",
+      "children": [
+        {
+          "id": 81,
+          "name": "Car Accessories"
+        },
+        {
+          "id": 82,
+          "name": "Motorbike Parts"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Music",
+      "children": [
+        {
+          "id": 91,
+          "name": "Instruments"
+        },
+        {
+          "id": 92,
+          "name": "Accessories"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Grocery",
+      "children": [
+        {
+          "id": 101,
+          "name": "Fruits & Vegetables"
+        },
+        {
+          "id": 102,
+          "name": "Beverages"
+        }
+      ]
+    }
+  ]
+}
